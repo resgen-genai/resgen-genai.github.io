@@ -1,1 +1,15 @@
-# resgen-genai.github.io
+## Audio Samples
+### Uncurated samples from ResGen (625M) models
+
+| **Continuation Task**                                                                                     | **Cross Task**                                                                                          |
+|-----------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Prompt:** "he began a confused complaint against the wizard who had vanished behind the curtain on the left"                            | **Prompt:** "housecleaning a domestic upheaval that makes it easy for the government to enlist all the soldiers it needs"               |
+| <audio controls> <source src="audio/cont_samples/1.wav" type="audio/wav"> Your browser does not support the audio element. </audio> | <audio controls> <source src="audio/cross_samples/1.wav" type="audio/wav"> Your browser does not support the audio element. </audio> |
+| **Prompt:** "before them fled the stroller and his three sons capless and terrified"                                                          | **Prompt:** "there was a unanimous groan at this and much reproach after which in his preoccupied way he explained"            |
+| <audio controls> <source src="audio/cont_samples/2.wav" type="audio/wav"> Your browser does not support the audio element. </audio> | <audio controls> <source src="audio/cross_samples/2.wav" type="audio/wav"> Your browser does not support the audio element. </audio> |
+| **Prompt:** "i could not see my boy injured excellence for but doing his duty as one of cumberland's sons"                            | **Prompt:** "well if i don't know who she was in love with i know who he was"               |
+| <audio controls> <source src="audio/cont_samples/3.wav" type="audio/wav"> Your browser does not support the audio element. </audio> | <audio controls> <source src="audio/cross_samples/3.wav" type="audio/wav"> Your browser does not support the audio element. </audio> |
+| **Prompt:** "we will go out together to the bower there is a way down to the court from my window"                                          | **Prompt:** "there were plenty of people to help but of course the young lady who should go down as governess would be in supreme authority"           |
+| <audio controls> <source src="audio/cont_samples/4.wav" type="audio/wav"> Your browser does not support the audio element. </audio> | <audio controls> <source src="audio/cross_samples/4.wav" type="audio/wav"> Your browser does not support the audio element. </audio> |
+| **Prompt:** "they regained their apartment apparently without disturbing the household of gamewell"                           | **Prompt:** "it sounded dull it sounded strange and all the more so because of his main condition which was"               |
+| <audio controls> <source src="audio/cont_samples/5.wav" type="audio/wav"> Your browser does not support the audio element. </audio> | <audio controls> <source src="audio/cross_samples/5.wav" type="audio/wav"> Your browser does not support the audio element. </audio> |
